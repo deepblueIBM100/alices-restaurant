@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
 @font-face {
     font-family: 'reeyregular';
     src: url('fonts/reey-regular-webfont.woff2') format('woff2'),
@@ -49,7 +50,7 @@ body {
 }
 
 .Landing p {
-  font-family: "Brush Script MT";
+  font-family: "Long Cang", cursive;
   font-size: 3em;
 }
 
