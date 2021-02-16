@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'reeyregular';
+    src: url('fonts/reey-regular-webfont.woff2') format('woff2'),
+         url('fonts/reey-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 body {
   text-align: center;
   font-family: Helvetica;
@@ -38,6 +45,7 @@ body {
 .Landing h1 {
   text-transform: uppercase;
   font-size: 3em;
+  font-family: "reeyregular";
 }
 
 .Landing p {
